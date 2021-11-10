@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Spike3taR
 - 👀 I’m interested in metadata analysis and coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on anything that will help me improve my understanding of coding
+- 🌱 I’m currently learning coding and Github related material
+- 💞️ I’m looking to collaborate on anything that will help me improve my understanding of Github and coding
 - 📫 How to reach me pbrowncurtis2@gmail.com
 
 <!---
